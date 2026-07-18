@@ -1,7 +1,7 @@
 {
   "name": "gongju-bot-nick-server",
   "version": "1.0.0",
-  "description": "공주봇 닉 중복검사 DB 서버",
+  "description": "춘구봇 닉 중복검사 DB 서버",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {

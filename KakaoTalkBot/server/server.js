@@ -1,5 +1,5 @@
 /**
- * 공주봇 닉 DB 서버 (Express + better-sqlite3)
+ * 춘구봇 닉 DB 서버 (Express + better-sqlite3)
  * - 채널별 닉 중복검사/등록을 영속 저장
  * - 봇(gongju-bot.js)의 NICK_API / BOT_KEY 와 짝을 맞추세요.
  *
