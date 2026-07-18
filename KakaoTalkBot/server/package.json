@@ -1,0 +1,17 @@
+{
+  "name": "gongju-bot-nick-server",
+  "version": "1.0.0",
+  "description": "공주봇 닉 중복검사 DB 서버",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "better-sqlite3": "^11.3.0"
+  }
+}
